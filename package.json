@@ -84,7 +84,7 @@
     "request": "^2.81.0",
     "tus-js-client": "1.4.3",
     "uuid": "2.0.2",
-    "validator": "^9.0.0",
+    "validator": "^11.1.0",
     "ws": "1.1.5"
   },
   "files": [
