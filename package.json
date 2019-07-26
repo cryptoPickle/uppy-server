@@ -79,7 +79,7 @@
     "morgan": "1.9.0",
     "ms": "^2.0.0",
     "prom-client": "^10.0.2",
-    "purest": "3.0.0",
+    "purest": "3.1.0",
     "redis": "^2.7.1",
     "request": "^2.81.0",
     "tus-js-client": "1.4.3",
