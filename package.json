@@ -36,7 +36,7 @@
     "@types/connect-redis": "0.0.7",
     "@types/cookie-parser": "^1.4.1",
     "@types/express-session": "^1.15.6",
-    "@types/helmet": "0.0.37",
+    "@types/helmet": "0.0.43",
     "@types/jsonwebtoken": "^7.2.5",
     "@types/lodash.merge": "^4.6.3",
     "@types/morgan": "^1.7.35",
